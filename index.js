@@ -1,4 +1,4 @@
-let text = "Happy Teddy Day, meri cutie pie! ❤️ I hope we will be with each other just like the two teddies are 🤭";
+let text = "Happy Teddy Day, meri cutie pie! ❤️  Happy Teddy Day Kanika❤️";
 let i = 0;
 
 function typeWriter() {
